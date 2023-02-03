@@ -2,7 +2,10 @@ package com.drin;
 
 public class Student {
     public String name;
-    public String lastname;
+
+    public Student(String name) {
+        this.setName(name);
+    }
 
     public String getName() {
         return name;
