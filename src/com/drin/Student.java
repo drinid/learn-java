@@ -2,6 +2,16 @@ package com.drin;
 
 public class Student {
     public String name;
+    private Integer money;
+
+
+    public Integer getMoney(){
+        return this.money;
+    }
+
+    public void setMoney(Integer money){
+        this.money = money;
+    }
 
     public Student(String name) {
         this.setName(name);
@@ -11,7 +21,7 @@ public class Student {
         return name;
     }
 
-    public void setName(String name) {
+    private void setName(String name) {
         this.name = name;
     }
 
