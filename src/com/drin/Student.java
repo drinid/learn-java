@@ -4,8 +4,20 @@ public class Student {
     public String name;
     public String lastname;
 
-    Student() {
-        System.out.println("Hello");
-        System.out.println("Drin");
+    public String getName() {
+        return name;
     }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void learn() {
+        System.out.println("Student");
+    }
+
+    public void read() {
+    }
+
+
 }

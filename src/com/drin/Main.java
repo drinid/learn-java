@@ -2,6 +2,8 @@ package com.drin;
 
 public class Main {
     public static void main(String[] args) {
-        new Student();
+        Student S = new Student();
+        S.setName("Drin");
+        System.out.println(S.getName());
     }
 }
