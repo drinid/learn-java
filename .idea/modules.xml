@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/drin.iml" filepath="$PROJECT_DIR$/drin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn-java.iml" filepath="$PROJECT_DIR$/.idea/learn-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/vota/vota.iml" filepath="$PROJECT_DIR$/examples/vota/vota.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vota/vota1.iml" filepath="$PROJECT_DIR$/vota/vota1.iml" />
     </modules>
   </component>
 </project>

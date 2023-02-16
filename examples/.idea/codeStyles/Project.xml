@@ -1,0 +1,38 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="LINE_SEPARATOR" value="&#10;" />
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="com.outworkers.phantom.jdk8._" />
+        </array>
+      </option>
+      <option name="importLayout">
+        <array>
+          <option value="_______ blank line _______" />
+          <option value="java" />
+          <option value="_______ blank line _______" />
+          <option value="scala" />
+          <option value="_______ blank line _______" />
+          <option value="all other imports" />
+          <option value="_______ blank line _______" />
+          <option value="testbench" />
+          <option value="_______ blank line _______" />
+          <option value="chat" />
+          <option value="_______ blank line _______" />
+          <option value="reports" />
+          <option value="_______ blank line _______" />
+          <option value="planning" />
+          <option value="_______ blank line _______" />
+          <option value="reports" />
+          <option value="_______ blank line _______" />
+          <option value="xt" />
+          <option value="_______ blank line _______" />
+          <option value="executions" />
+          <option value="_______ blank line _______" />
+        </array>
+      </option>
+      <option name="FORMATTER" value="1" />
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
